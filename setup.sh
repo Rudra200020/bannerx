@@ -2,14 +2,14 @@
 clear
 echo
 echo -e '\033[1;96m' "══════════════════════════════════════════"
-echo -e '\033[1;96m' " |        Created by 'MrHacker-X'       |"
+echo -e '\033[1;96m' " |        Created by 'RUDRANSH'       |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
-echo -e '\033[1;96m' " |        Instagram: @ 0hacker_x0       |"
+echo -e '\033[1;96m' " |        Instagram: @ gwxom          |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
 echo
-echo -e '\033[1;96m' "YouTube: https://youtube.com/c/Sololex/"
+echo -e '\033[1;96m' "YouTube: https://t.me/rudransh_op"
 echo -e '\033[1;92m'
-echo "Installing.................."
+echo "Installing..BRO.................."
 echo
 apt install python -y
 pip install lolcat
@@ -32,5 +32,5 @@ echo -e '\033[1;96m' " |        Instagram: @ 0hacker_x0       |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
 echo
 figlet Finished | lolcat
-echo -e '\033[1;96m' "Restart your termux and see awesome look"
+echo -e '\033[1;96m' "Restart your Termux app aur fir dekho kaisa look🔥"
 echo
