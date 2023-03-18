@@ -6,7 +6,7 @@
 
 + ```pkg update && pkg upgrade```
 + ```pkg install git -y```
-+ ```git clone https://github.com/MrHacker-X/BannerX.git```
++ ```git clone https://github.com/Rudra200020/bannerx```
 + ```cd BannerX```
 + ```chmod +x *```
 + ```bash setup.sh```
@@ -16,15 +16,11 @@
 ```
 pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/MrHacker-X/BannerX.git && cd BannerX && chmod +x * && bash setup.sh && exit
 ```
-## First Look
-![photo](https://e.top4top.io/p_18889bda10.jpg)
-![photo](https://c.top4top.io/p_1888yhr5g6.jpg)
-![photo](https://b.top4top.io/p_18882ag7f0.jpg)
 
 ## Follow US:
 
-+ [Instagram](https://instagram.com/hackerxmr/)
-+ [YouTube](https://youtube.com/c/Sololex/)
-+ [Github](https://github.com/MrHacker-X/)
++ [Instagram](https://instagram.com/gwxom/)
++ [YouTube](https://youtube.com/c/rudransh_op/)
++ [Github](https://github.com/rudra200020/)
 
-### Created By 'MrHacker-X'
+### Created By 'RUDRANSH CODER'
